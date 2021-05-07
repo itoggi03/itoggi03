@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sojeong!
 
 ### About Me
-- Blog: [My Github Blog](https://itoggi03.github.io/)
+<!-- - Blog: [My Github Blog](https://itoggi03.github.io/) -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itoggi03)](https://github.com/anuraghazra/github-readme-stats)
 
