@@ -5,7 +5,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itoggi03&count_private=true&title_color=000000&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itoggi03)](https://github.com/itoggi03) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoggi03&count_private=true&layout=compact&title_color=000000&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoggi03&layout=compact&title_color=000000&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03)
 
 
 <!--
