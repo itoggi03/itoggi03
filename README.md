@@ -4,6 +4,8 @@
 <!-- - Blog: [My Github Blog](https://itoggi03.github.io/) -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itoggi03&count_private=true&title_color=FFB400&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03)
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itoggi03)](https://github.com/itoggi03)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoggi03&layout=compact)](https://github.com/itoggi03)
 
 
