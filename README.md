@@ -3,7 +3,7 @@
 ### About Me
 <!-- - Blog: [My Github Blog](https://itoggi03.github.io/) -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itoggi03&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itoggi03&count_private=true&title_color=#FFD400)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=SJMovies)](https://github.com/itoggi03/POST-IT.git)
  -->
 
