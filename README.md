@@ -7,7 +7,7 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itoggi03)](https://github.com/itoggi03) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoggi03&layout=compact&title_color=000000&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itoggi03&repo=GreenFingers)](https://github.com/itoggi03/Green-Fingers.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itoggi03&repo=Green-Fingers)](https://github.com/itoggi03/Green-Fingers.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itoggi03&repo=Post-IT)](https://github.com/itoggi03/POST-IT.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itoggi03&repo=Doit)](https://github.com/itoggi03/Doit.git)
 
