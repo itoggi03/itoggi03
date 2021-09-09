@@ -7,7 +7,7 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itoggi03)](https://github.com/itoggi03) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoggi03&layout=compact&title_color=000000&text_color=323232&show_icons=true&icon_color=e2a76f)](https://github.com/itoggi03) -->
 <!-- <br> -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itoggi03&repo=Green-Fingers)](https://github.com/itoggi03/Green-Fingers.git)
